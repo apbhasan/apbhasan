@@ -68,27 +68,27 @@
 <p align="left">
 
 <a href="https://github.com/apbhasan">
-  <img src="https://skillicons.dev/icons?i=github" width="40px" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="32" alt="GitHub" />
 </a>
 
 <a href="https://www.facebook.com/mehedi.hassan.apurbo.2024">
-  <img src="https://skillicons.dev/icons?i=facebook" width="40px" />
+  <img src="https://cdn.simpleicons.org/facebook/ffffff" width="32" alt="Facebook" />
 </a>
 
 <a href="https://www.instagram.com/__bunny__o.o/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40px" />
+  <img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" alt="Instagram" />
 </a>
 
 <a href="https://www.linkedin.com/in/mehedi-hassan-apurbo-705974373/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="32" alt="LinkedIn" />
 </a>
 
 <a href="https://x.com/ADurlov12x">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40px" />
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="32" alt="X (Twitter)" />
 </a>
 
 <a href="https://www.reddit.com/user/Original-Highway7319/">
-  <img src="https://skillicons.dev/icons?i=reddit" width="40px" />
+  <img src="https://cdn.simpleicons.org/reddit/ffffff" width="32" alt="Reddit" />
 </a>
 
 </p>
