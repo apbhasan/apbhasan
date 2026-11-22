@@ -1,29 +1,35 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://kitstreet-bd.netlify.app">
-    <img src="./banner.png" alt="Mehedi Hassan (Apurbo): Founder of Kit Street, full-stack web developer" width="100%" />
+  <a href="https://apbhasan.vercel.app">
+    <img src="./banner.png" alt="Mehedi Hassan (Apurbo): Full Stack Developer, MERN Stack" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://kitstreet-bd.netlify.app"><img src="https://img.shields.io/badge/Kit%20Street-Shop%20now-FF6B35?style=for-the-badge&logo=shopify&logoColor=white" alt="Kit Street" /></a>
-  <a href="https://www.linkedin.com/in/mehedi-hassan-apurbo-705974373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0B11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://apbhasan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-apbhasan.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://kitstreet-bd.netlify.app"><img src="https://img.shields.io/badge/Kit%20Street-Shop%20now-0A0B11?style=for-the-badge&logo=shopify&logoColor=white" alt="Kit Street" /></a>
+  <a href="https://www.linkedin.com/in/mehedi-hassan-705974373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0B11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mehedi.apurbo@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0A0B11?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=apbhasan&label=Profile%20views&color=FF6B35&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=apbhasan&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## 👋 About me
 
-I'm **Mehedi Hassan (Apurbo)**, a **CSE student at BRAC University**, a **full-stack web developer**, and the **founder of [Kit Street](https://kitstreet-bd.netlify.app)**, an online store for premium football jerseys in Bangladesh.
+I'm **Mehedi Hassan (Apurbo)**, a **Full Stack Developer (MERN Stack)** studying **Computer Science & Engineering at BRAC University**, and the **founder of [Kit Street](https://kitstreet-bd.netlify.app)**.
 
-I like turning ideas into real products that people use, from the first design to the live website, payments and delivery.
+I build full-stack web apps with **MongoDB, Express.js, React and Node.js**, and I like taking ideas all the way from the first design to a live product that people actually use.
 
+- 💻 **Building with:** React, Next.js, Node.js, Express.js, MongoDB, Firebase, TypeScript, Tailwind CSS, Supabase
+- 🎓 **Completed:** Complete Web Development course, Programming Hero (Batch Web-12), with a 93%+ completion score
 - 🏪 **Running:** Kit Street, from the code to the customers
-- 💻 **Building with:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Supabase
+- 🏏 **Leading:** Backlot Aces Cricket XI, the cricket team I founded
+- 🎮 **Competing:** EA SPORTS FC esports, Elite Division as **Bunny_IX7**
 - 🤖 **Learning now:** Prompt Engineering and advanced React patterns
-- ⚡ **Fun fact:** I love breaking things so I can learn how to fix them 😄
+- 🌐 **Portfolio:** **[apbhasan.vercel.app](https://apbhasan.vercel.app)**
+
+> Different arenas, the same obsession with craft, teamwork and winning the details.
 
 ---
 
@@ -56,11 +62,16 @@ I like turning ideas into real products that people use, from the first design t
   </tr>
 </table>
 
-### 🧸 More projects
+### 🚀 More projects
 
-| Project | What it is | Link |
-|---|---|---|
-| **ToyTopia** | Toy store website | [Live demo](https://incredible-yeot-91b2ec.netlify.app/) |
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **[Artify](https://artify-exhibition.netlify.app/)** | Artwork upload & showcase platform: galleries, favorites, login | React · Node.js · Express · MongoDB | [Live](https://artify-exhibition.netlify.app/) · [Client](https://github.com/apbhasan/new-project-a10client) · [Server](https://github.com/apbhasan/new-project-a10) |
+| **[Gadget Hub](https://my-first-next-app-vent.netlify.app/)** | Premium electronics store with auth and protected dashboards | Next.js · NextAuth · Express · MongoDB | [Live](https://my-first-next-app-vent.netlify.app/) |
+| **[We Make Apps](https://we-make-apps.netlify.app/)** | App showcase: trending apps, live search, sort and installation list | React · React Router · Tailwind CSS | [Live](https://we-make-apps.netlify.app/) · [Code](https://github.com/apbhasan/new-project-on) |
+| **[ToyTopia](https://incredible-yeot-91b2ec.netlify.app/)** | Toy store website with category filtering | React · Tailwind CSS | [Live](https://incredible-yeot-91b2ec.netlify.app/) |
+
+👉 See everything on my portfolio: **[apbhasan.vercel.app](https://apbhasan.vercel.app)**
 
 ---
 
@@ -77,6 +88,9 @@ I like turning ideas into real products that people use, from the first design t
 
 **Backend & database**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-0A0B11?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-0A0B11?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0B11?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0A0B11?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0B11?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0B11?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
@@ -92,7 +106,8 @@ I like turning ideas into real products that people use, from the first design t
 ## 🤝 Let's connect
 
 <p>
-  <a href="https://www.linkedin.com/in/mehedi-hassan-apurbo-705974373/"><img src="https://img.shields.io/badge/LinkedIn-0A0B11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://apbhasan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0B11?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mehedi-hassan-705974373/"><img src="https://img.shields.io/badge/LinkedIn-0A0B11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/mehedi.hassan.apurbo.2024"><img src="https://img.shields.io/badge/Facebook-0A0B11?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/__bunny__o.o/"><img src="https://img.shields.io/badge/Instagram-0A0B11?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/ADurlov12x"><img src="https://img.shields.io/badge/X-0A0B11?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -105,12 +120,12 @@ I like turning ideas into real products that people use, from the first design t
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apbhasan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0B11&title_color=FF6B35&icon_color=FF6B35&text_color=C8CBD4" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbhasan&layout=compact&hide_border=true&bg_color=0A0B11&title_color=FF6B35&text_color=C8CBD4" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apbhasan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0B11&title_color=3B82F6&icon_color=3B82F6&text_color=C8CBD4" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apbhasan&layout=compact&hide_border=true&bg_color=0A0B11&title_color=3B82F6&text_color=C8CBD4" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apbhasan&hide_border=true&background=0A0B11&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=C8CBD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B90A0" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apbhasan&hide_border=true&background=0A0B11&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C8CBD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B90A0" alt="GitHub streak" />
 </p>
 
 <p align="center"><b>⭐ Thanks for visiting. Let's build something great together!</b></p>
